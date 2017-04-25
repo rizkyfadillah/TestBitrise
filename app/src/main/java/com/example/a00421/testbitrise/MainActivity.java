@@ -15,6 +15,8 @@ public class MainActivity extends AppCompatActivity {
 
 //        Toast.makeText(this, "Push something to branch develop", Toast.LENGTH_SHORT).show();
 
-        Toast.makeText(this, "Create brnach feature/aboc", Toast.LENGTH_SHORT).show();
+//        Toast.makeText(this, "Create branch feature/aboc", Toast.LENGTH_SHORT).show();
+
+        Toast.makeText(this, "Push something to branch feature/aboc", Toast.LENGTH_SHORT).show();
     }
 }
