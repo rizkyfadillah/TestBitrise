@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
 
         //add branch develop
 
-        Toast.makeText(this, "Push something to branch develop", Toast.LENGTH_SHORT).show();
+//        Toast.makeText(this, "Push something to branch develop", Toast.LENGTH_SHORT).show();
+
+        Toast.makeText(this, "Create brnach feature/aboc", Toast.LENGTH_SHORT).show();
     }
 }
